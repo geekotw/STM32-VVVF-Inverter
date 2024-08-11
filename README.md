@@ -11,3 +11,5 @@ You are free to use any of the code for non commercical use but please don't pos
 This code currently is highly experimental and likely to have bugs.
 Although working with just the microcontroller is pretty safe, the circuitry for the inverter contains high voltage which could be dangerous. Use at your own risk.
 We are not responsible for any injury to yourself or others.
+# How to use
+Copy the example binary file to the stm32 microcontroller to load it onto the board. Holding the blue push button will speed the motor up and releasing it causes it to slow down.
